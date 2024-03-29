@@ -4,24 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Simple TypeScript Calculator</title>
-</head>
-<body>
-    <header>
-        <h1>Simple TypeScript Calculator</h1>
-    </header>
-    <main>
-        <section class="description">
-            <h2>Description</h2>
-            <p>This calculator program is implemented in TypeScript and supports basic arithmetic operations such as addition, subtraction, multiplication, and division.</p>
-        </section>
-        <section class="calculator">
-            <!-- Calculator implementation goes here -->
-        </section>
-    </main>
-    <footer>
-        <p>&copy; 2024 Simple Calculator Project</p>
-    </footer>
-  <style>
+     <style>
     body {
     font-family: Arial, sans-serif;
     margin: 0;
@@ -69,5 +52,22 @@ footer {
 }
 
   </style>
+</head>
+<body>
+    <header>
+        <h1>Simple TypeScript Calculator</h1>
+    </header>
+    <main>
+        <section class="description">
+            <h2>Description</h2>
+            <p>This calculator program is implemented in TypeScript and supports basic arithmetic operations such as addition, subtraction, multiplication, and division.</p>
+        </section>
+        <section class="calculator">
+            <!-- Calculator implementation goes here -->
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 Simple Calculator Project</p>
+    </footer>
 </body>
 </html>
